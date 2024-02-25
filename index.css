@@ -1,0 +1,188 @@
+body{
+    background-color: rgb(240,248,255);
+}
+* {
+    margin: none;
+    padding: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    margin-top: 2px;
+
+  }
+  
+.nav-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: center;
+}
+.logo{
+    width: 180px;
+    height: 50px;
+    cursor: pointer;
+    margin-right: 50px;
+}
+.nav-menu{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    margin: 1px;
+    border: none;
+    color: rgb#(17,45,71);
+}
+ul li a{
+    text-decoration: none;
+    font-size: 22px;
+    color: rgb(17,45,71);
+}
+.sign-up-bt{
+background-color: white;
+  border: none;
+  padding: 1rem;
+  border-radius: 30px;
+  -webkit-text-fill-color: rgb(17,45,71);
+  width: 200px;
+  cursor: pointer;
+  font-size: 22px;
+  margin-left: 40px;
+}
+.submit2{
+    padding: auto;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 550px;
+    margin-right: 580px ;
+    margin-top: 100px;
+    background-color: rgb(223,241,255);
+    padding: 6px;
+    border-radius: 30px;
+}
+.submit2 span{
+    font-size: 22px;
+    -webkit-text-fill-color: rgb(65,190,255);
+}
+button{
+    border-radius: 20px;
+    padding: 6px;
+    font-size: 20px;
+    -webkit-text-fill-color: aliceblue;
+    width: 80px;
+    height: auto;
+    margin-left: 3px;
+    margin-top: 1px;
+    background-color: rgb(6,160,241);
+    outline-color: none;
+}
+h1{
+    font-size: 120px;
+    align-items: center;
+    display: block;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-justify: auto;
+    text-align: center;
+    -webkit-text-fill-color: rgb(16,42,67);
+    letter-spacing: -4px;
+}
+h1 span{
+    -webkit-text-fill-color: rgb(65,190,255);
+    margin-left: -12px;
+    font-size: 140px;
+    padding: auto;
+}
+h4{
+    font-size: 30px;
+    align-items: center;
+    display: block;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: -55px;
+    text-justify: auto;
+    text-align: center;
+    -webkit-text-fill-color: rgb(111,135,158);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.google{
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.effortless{
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 100px;
+}
+p{
+    font-size: 90px;
+    align-items: left;
+    display: block;
+    justify-content: left;
+    text-justify: auto;
+    text-align: left;
+    -webkit-text-fill-color: rgb(65,190,255);
+    letter-spacing: -2px;
+}
+p span{
+    -webkit-text-fill-color: rgb(16,42,67);
+}
+h5{
+    font-size: 25px;
+    margin-top: -60px;
+    -webkit-text-fill-color: rgb(111,135,158);
+}
+.learn{
+    border-radius: 40px;
+    font-size: 20px;
+    width: 200px;
+    margin-top: 20px;
+    height: 70px;
+}
+.mobile{
+    justify-content: right;
+    align-items: right;
+    margin-left: 850px;
+    margin-top: -600px;
+}
+.communication{
+    justify-content: right;
+    align-items: right;
+    margin-left: 900px;
+    margin-top: -600px;
+}
+.Hi{
+    justify-content: right;
+    align-items: right;
+    margin-left: 800px;
+    margin-top: -500px;
+    margin-bottom: -80px;
+}
+.connections{
+    margin-right: 900px;
+    margin-top: 750px; 
+}
+.connections2{
+    margin-left: 300px;
+    margin-top: -750px; 
+}
+.connections3{
+    margin-right: 900px;
+    margin-top: -450px; 
+}
+.write1{
+    margin-top: -400px;
+    margin-left: 850px;
+}
+p{
+    font-size: 70px;
+}
+
+
